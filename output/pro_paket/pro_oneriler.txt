@@ -1,0 +1,5 @@
+
+📊 Otomatik Öneriler:
+- En çok satan ürün: Ürün B → Bu ürüne reklam yatırımı yapılmalı.
+- En zayıf satış günü: Sunday → Bu gün için kampanya önerilir.
+- En çok satış yapılan şehir: Ankara → Bölgeye özel strateji planlanabilir.

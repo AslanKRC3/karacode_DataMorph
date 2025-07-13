@@ -1,0 +1,2 @@
+Top Ürün: Ürün B - Bu ürün öne çıkarılmalı.
+En düşük satış günü: Sunday - Bu gün için kampanya yapılabilir.
